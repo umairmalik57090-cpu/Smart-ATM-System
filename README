@@ -1,0 +1,42 @@
+# 🏦 Smart ATM System (DSA Project)
+
+## 📌 Description
+This project is a Smart ATM System developed in C++ using Data Structures concepts.  
+It simulates real-world ATM operations with both customer and admin functionalities.
+
+## 🚀 Features
+
+### 👤 Customer Features
+- Login Authentication (Account Number + PIN)
+- Deposit & Withdraw Money
+- Balance Inquiry
+- Mini Statement (Last Transactions)
+- Change PIN
+- Submit Complaints
+
+### 🛠️ Admin Features
+- View All Accounts
+- View Transaction History
+- Block / Unblock Accounts
+- Create New Accounts
+- View Customer Complaints
+
+## 🧠 Data Structures Used
+- Doubly Linked List → Account Management
+- Stack → Transaction History
+- File Handling → Data Persistence
+
+## 📂 Files Used
+- `accounts.txt` → Store accounts
+- `blocked.txt` → Blocked accounts
+- `complaints.txt` → User complaints
+- `tx_*.txt` → Transaction logs
+
+## 🛠️ Technologies
+- C++
+- File Handling
+- Data Structures (DSA)
+
+## 👨‍💻 Author
+Muhammad Umair
+   ./atm
